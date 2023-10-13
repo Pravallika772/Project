@@ -1,0 +1,252 @@
+@media screen and (min-width: 240px) {
+       body{
+        width: 1400px;
+        height: 890px;
+        top: 17385px;
+        left: -111px;
+        
+
+        /* margin: 0;
+        padding: 0;
+        width: 100%;      */
+        background-color: rgb(50, 50, 135);
+    }
+    .headerMenu{
+        position:absolute;
+        width: 972px;
+height: 40px;
+top: 65px;
+left: 213px;
+        color:white;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        display: flex;
+        justify-content: space-between;
+    }
+    a{
+        text-decoration: none;
+        color:white;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+        
+    ul{
+        list-style-type: none;
+        display: flex;
+        gap: 30px;
+    }
+    li{
+        text-decoration: none;
+    }
+    .actions{
+        color: #FFFFFF;
+        width: 503px;
+height: 40px;
+top: 65px;
+left: 682px;
+    }
+    
+    #purchase button{
+        position:absolute;
+        width: 120px;
+    height: 40px;
+    top: 15px;
+    left: 915px; 
+
+    border-radius: 30px;
+    background-color: rgb(243, 81, 135);
+    border-style: none;
+    color: white;
+font-size: 15px;
+    }
+    
+    .generateWebpage{
+        position: absolute;
+        width: 427px;
+        height: 496px;
+        top: 219px;
+        left: 209px;
+        font-family:sans-serif; 
+        color: white;
+    }
+    
+    #title h2{
+        width: 427px;
+        height: 217px;
+        font-size: 55px;
+        text-align: left;  
+    
+    }
+    
+    #info h5{
+        width: 363px;
+    height: 160px;
+    top: 460px;
+    left: 212px;
+font-size: 22px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0px;
+text-align: left;
+    }
+    
+    #btn{
+        width:157px;
+    height: 50px;
+    border-radius: 30px;
+    padding: 0px 20px;
+    background-color: rgb(243, 81, 135);
+    border-style: none;
+    color: white;
+    }
+    .signupForm{
+    position: absolute;
+    width: 470px;
+    height: 600px;
+    top: 187px;
+    left: 715px;
+    border: 2px solid #EBEAED;
+    text-align: center;
+    background-color:rgb(251, 248, 248);
+    border-radius: 10px;
+    font-family: sans-serif;
+    }
+    .signupForm h3{
+        position: absolute;
+        width: 260px;
+    height: 52px;
+    left: 110px;
+    font-family: sans-serif;
+    color: #1E0E62;
+
+    
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: -0.4000000059604645px;
+    text-align: center;
+       
+    }
+    
+    #email input{
+        position: absolute;
+        width: 310px;
+    height: 50px;
+    top: 150px;
+   left: 65px; 
+        border-radius: 30px;
+        padding-left: 20px;
+        background-color: transparent;
+        border-style: solid;
+        border-color: rgb(197, 196, 196);
+    }
+    #password input
+    {
+        position: absolute;
+        width: 310px;
+    height: 50px;
+    top: 230px;
+    left: 65px;
+    border-radius: 30px;
+    padding-left: 20px;
+    background-color: transparent;
+    border-style: solid;
+    border-color: rgb(197, 196, 196);
+    }
+    #agree{
+        position: absolute;
+        width: 305px;
+    height: 26.4px;
+    top: 301px;
+    left: 50px;
+    color: rgba(116, 116, 116, 0.893);
+    font-size:16px;
+    }
+    #signin button{
+        position: absolute;
+        width: 330px;
+    height: 52px;
+    top: 350px;
+    left: 55px;
+    margin: 20px;
+    border-radius: 30px;
+    background-color: rgb(68, 68, 223);
+    color: white;
+    border-style: none;
+    }
+    
+    .division{
+        position: absolute;
+        width:365px;
+    height: 26px;
+    top: 443.4px;
+    left: 55px;
+    display: flex;
+    }
+    #lefthr{
+        width: 145px;
+    height: 2px;
+    top: 604.5px;
+    left: 784.5px;
+    border: 2px;
+    padding:0px 20px;
+    } 
+    p{
+    width: 16px; 
+    height: 26px; 
+    top: 523.4px;
+    left: 939px;
+    padding: 0px;
+    margin: 0px;
+    }
+    #righthr{
+        width: 141.57px;
+    height: 2px;
+    top: 604.5px;
+    left: 970.93px;
+    border: 2px;
+    padding:0px 20px;
+    }
+    #login button{
+        position: absolute;
+        width: 330px;
+    height: 52px;
+    top: 476px;
+    left: 75px;
+    border-radius: 30px;
+    background-color: rgb(49, 184, 241);
+    color: white;
+    border-style: hidden;
+    }
+    .know{
+        display: flex;
+    }
+    #account{
+        position:absolute;
+        width: 215px;
+    height: 28px;
+    top: 545px;
+    left: 80px;
+    
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+    }
+    #sign{
+        position: absolute;
+        width:60px;
+    height: 28px;
+    top: 545px;
+    left: 295px;
+    
+    
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    color:#25DAC5;
+    ;
+    
+    } 
+    
+}
